@@ -1,0 +1,60 @@
+Date,District_name,PROVINCE,District_id,PROVINCE,QC,Simulated_yield_mean,Simulated_yield_sd,Simulated_probability,Trigger
+2021-09-30,Attock,Punjab,601,Punjab,1.0,1.672,0.329,0.065,1.306
+2021-09-30,Bahawalnagar,Punjab,602,Punjab,1.0,3.108,0.236,0.023,2.897
+2021-09-30,Bahawalpur,Punjab,603,Punjab,1.0,3.259,0.441,0.091,2.989
+2021-09-30,Bhakkar,Punjab,604,Punjab,1.0,2.236,0.289,0.41,2.218
+2021-09-30,Chakwal,Punjab,605,Punjab,1.0,1.456,0.221,0.018,1.169
+2021-09-30,Chiniot,Punjab,606,Punjab,0.0,3.018,0.501,0.511,3.029
+2021-09-30,Dera Ghazi Khan,Punjab,607,Punjab,1.0,2.887,0.255,0.161,2.766
+2021-09-30,Gujranwala,Punjab,609,Punjab,1.0,2.437,0.541,0.705,2.816
+2021-09-30,Gujrat,Punjab,610,Punjab,1.0,1.708,0.392,0.373,1.652
+2021-09-30,Hafizabad,Punjab,611,Punjab,1.0,2.899,0.569,0.439,2.993
+2021-09-30,Jhang,Punjab,612,Punjab,1.0,2.789,0.258,0.341,2.778
+2021-09-30,Jhelum,Punjab,613,Punjab,1.0,1.55,0.567,0.394,1.495
+2021-09-30,Kasur,Punjab,614,Punjab,1.0,2.754,1.461,0.439,2.601
+2021-09-30,Khanewal,Punjab,615,Punjab,1.0,3.231,0.434,0.246,3.029
+2021-09-30,Khushab,Punjab,616,Punjab,1.0,1.785,0.28,0.24,1.696
+2021-09-30,Lahore,Punjab,617,Punjab,1.0,2.496,0.92,0.546,2.594
+2021-09-30,Layyah,Punjab,618,Punjab,1.0,2.579,0.252,0.179,2.462
+2021-09-30,Lodhran,Punjab,619,Punjab,1.0,3.328,0.418,0.105,2.998
+2021-09-30,Mandi Bahauddin,Punjab,620,Punjab,1.0,2.484,0.888,0.52,2.568
+2021-09-30,Mianwali,Punjab,621,Punjab,1.0,2.136,0.284,0.264,2.044
+2021-09-30,Multan,Punjab,622,Punjab,1.0,3.02,0.29,0.083,2.761
+2021-09-30,Muzaffargarh,Punjab,623,Punjab,1.0,2.79,0.321,0.182,2.632
+2021-09-30,Nankana Sahib,Punjab,624,Punjab,1.0,3.009,1.443,0.486,3.093
+2021-09-30,Narowal,Punjab,625,Punjab,1.0,2.19,0.429,0.278,2.033
+2021-09-30,Okara,Punjab,626,Punjab,1.0,3.158,0.584,0.466,3.045
+2021-09-30,Pakpattan,Punjab,627,Punjab,1.0,3.381,0.554,0.403,3.28
+2021-09-30,Rajanpur,Punjab,629,Punjab,1.0,3.05,0.417,0.127,2.789
+2021-09-30,Rawalpindi,Punjab,630,Punjab,1.0,1.69,0.341,0.101,1.43
+2021-09-30,Sargodha,Punjab,632,Punjab,1.0,2.288,0.596,0.495,2.304
+2021-09-30,Sheikhupura,Punjab,633,Punjab,1.0,2.436,0.679,0.59,2.732
+2021-09-30,Sialkot,Punjab,634,Punjab,1.0,2.16,1.017,0.458,2.121
+2021-09-30,Toba Tek Singh,Punjab,635,Punjab,1.0,2.919,0.597,0.452,2.901
+2021-09-30,Vehari,Punjab,636,Punjab,1.0,3.182,0.598,0.261,2.973
+2021-09-30,Badin,Sindh,801,Sindh,1.0,2.597,0.571,0.131,2.174
+2021-09-30,Dadu,Sindh,802,Sindh,1.0,3.251,0.568,0.076,2.718
+2021-09-30,Ghotki,Sindh,803,Sindh,1.0,3.993,0.433,0.071,3.765
+2021-09-30,Hyderabad,Sindh,804,Sindh,1.0,3.445,1.028,0.303,3.092
+2021-09-30,Jacobabad,Sindh,805,Sindh,1.0,2.442,1.441,0.335,2.038
+2021-09-30,Jamshoro,Sindh,806,Sindh,0.0,3.254,0.762,0.485,3.233
+2021-09-30,Kashmore,Sindh,808,Sindh,0.0,2.842,0.433,0.326,2.643
+2021-09-30,Khairpur,Sindh,809,Sindh,1.0,3.529,0.415,0.077,3.17
+2021-09-30,Larkana,Sindh,810,Sindh,1.0,2.99,0.951,0.205,2.598
+2021-09-30,Matiari,Sindh,811,Sindh,1.0,3.856,8.016,0.465,3.507
+2021-09-30,Mirpur Khas,Sindh,812,Sindh,1.0,3.217,1.345,0.323,2.774
+2021-09-30,Naushahro Feroze,Sindh,813,Sindh,1.0,3.685,0.695,0.252,3.459
+2021-09-30,Qambar Shahdadkot,Sindh,815,Sindh,,,,,
+2021-09-30,Sanghar,Sindh,814,Sindh,1.0,3.419,1.173,0.393,3.274
+2021-09-30,Shaheed Benazirabad,Sindh,816,Sindh,0.0,3.645,0.537,0.231,3.443
+2021-09-30,Shikarpur,Sindh,817,Sindh,1.0,2.68,1.464,0.296,2.178
+2021-09-30,Sukkur,Sindh,818,Sindh,1.0,3.807,0.681,0.166,3.548
+2021-09-30,Tando Allah Yar,Sindh,819,Sindh,0.0,3.975,3.738,0.405,3.449
+2021-09-30,Tando Muhammad Khan,Sindh,820,Sindh,0.0,2.842,0.279,0.37,2.778
+2021-09-30,Tharparkar,Sindh,821,Sindh,0.0,2.82,0.488,0.201,2.591
+2021-09-30,Thatta,Sindh,822,Sindh,1.0,2.381,0.277,0.127,2.316
+2021-09-30,Umerkot,Sindh,823,Sindh,0.0,3.102,0.881,0.268,2.734
+2021-09-30,Rahim Yar Khan,Punjab,628,Punjab,1.0,3.097,0.546,0.213,2.868
+2021-09-30,Sahiwal,Punjab,631,Punjab,1.0,2.887,0.617,0.478,2.843
+2021-09-30,Faisalabad,Punjab,608,Punjab,1.0,2.462,1.232,0.531,2.575
+2021-09-30,Karachi City,Sindh,807,Sindh,0.0,2.21,0.477,0.119,1.843
